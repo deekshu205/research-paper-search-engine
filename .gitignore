@@ -1,0 +1,6 @@
+node_modules/
+arxiv-metadata-oai-snapshot.json
+*.json
+*.zip
+.env
+dist/
